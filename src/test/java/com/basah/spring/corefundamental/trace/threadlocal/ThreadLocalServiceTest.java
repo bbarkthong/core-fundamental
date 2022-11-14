@@ -2,14 +2,14 @@ package com.basah.spring.corefundamental.trace.threadlocal;
 
 import org.junit.jupiter.api.Test;
 
-import com.basah.spring.corefundamental.trace.threadlocal.code.FieldService;
+import com.basah.spring.corefundamental.trace.threadlocal.code.ThreadLocalService;
 
 import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
-public class FieldServiceTest {
+public class ThreadLocalServiceTest {
 
-    private FieldService fieldService = new FieldService();
+    private ThreadLocalService fieldService = new ThreadLocalService();
 
     @Test
     void field() {
