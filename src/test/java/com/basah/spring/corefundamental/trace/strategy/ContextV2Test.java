@@ -2,7 +2,6 @@ package com.basah.spring.corefundamental.trace.strategy;
 
 import org.junit.jupiter.api.Test;
 
-import com.basah.spring.corefundamental.trace.strategy.code.strategy.ContextV1;
 import com.basah.spring.corefundamental.trace.strategy.code.strategy.ContextV2;
 import com.basah.spring.corefundamental.trace.strategy.code.strategy.Strategy;
 import com.basah.spring.corefundamental.trace.strategy.code.strategy.StrategyLogic1;

@@ -3,7 +3,6 @@ package com.basah.spring.corefundamental.V4;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.basah.spring.corefundamental.trace.TraceStatus;
 import com.basah.spring.corefundamental.trace.logtrace.LogTrace;
 import com.basah.spring.corefundamental.trace.template.AbstractTemplate;
 
